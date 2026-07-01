@@ -2,6 +2,8 @@
 
 Invoicer is a local-first invoice management web app for freelancers and small businesses. You can run it locally, use it from your browser, manage clients and invoices, and export invoices as PDF without setting up a backend.
 
+For a short portfolio-style summary, see [INVOICER_PROJECT_PROFILE.md](INVOICER_PROJECT_PROFILE.md).
+
 ## Download And Use
 
 If you only want to use the app and do not want to work with code:
